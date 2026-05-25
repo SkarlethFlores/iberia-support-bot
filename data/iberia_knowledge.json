@@ -1,0 +1,82 @@
+[
+  {
+    "topic": "baggage",
+    "subtopic": "hand_luggage",
+    "section_heading": "Hand luggage allowance by fare",
+    "url": "https://www.iberia.com/en/information/baggage/hand-luggage/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Iberia hand luggage policy varies by fare type. Basico fare: one personal item only (handbag or small backpack) max 35x20x20cm, no cabin trolley included. Clasico fare: one cabin bag up to 10kg max 56x45x25cm plus one personal item. Flexible fare: one cabin bag up to 10kg plus one personal item, priority boarding included. On Iberia Express flights, hand luggage rules may differ. Oversize or overweight cabin bags must be checked in at the gate and fees apply."
+  },
+  {
+    "topic": "baggage",
+    "subtopic": "hold_luggage",
+    "section_heading": "Checked baggage allowance",
+    "url": "https://www.iberia.com/en/information/baggage/checked-baggage/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Basico fare: no checked baggage included, must be purchased separately. Price varies by route, cheaper when bought online in advance. Clasico fare: one checked bag up to 23kg included. Flexible fare: two checked bags up to 23kg each included. Extra baggage can be purchased for all fares. Excess weight fee applies for bags over 23kg up to 32kg. Bags over 32kg are not accepted as checked baggage."
+  },
+  {
+    "topic": "baggage",
+    "subtopic": "excess_baggage_fees",
+    "section_heading": "Excess and additional baggage fees",
+    "url": "https://www.iberia.com/en/information/baggage/checked-baggage/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Additional baggage fees depend on the route and when purchased. Buying online before check-in is significantly cheaper than paying at the airport. A second bag on short-haul routes costs approximately 40-60 EUR online vs 100+ EUR at the airport. Excess weight (23-32kg) incurs a fee of approximately 50-75 EUR per bag. Sporting equipment such as bicycles, skis and golf bags are treated as special baggage with specific fees."
+  },
+  {
+    "topic": "changes",
+    "subtopic": "flight_changes",
+    "section_heading": "Changing your flight by fare type",
+    "url": "https://www.iberia.com/en/information/changes-and-cancellations/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Basico fare: flight changes are not permitted. The ticket is non-changeable and non-refundable. Clasico fare: changes are permitted but a change fee applies plus any fare difference. Changes must be made before original departure time. Flexible fare: changes are free of charge with no change fee, only fare difference applies if applicable. All changes can be made online via Manage My Booking, by phone, or at the airport. Same-day changes are subject to availability."
+  },
+  {
+    "topic": "changes",
+    "subtopic": "cancellations_refunds",
+    "section_heading": "Cancellation and refund policy",
+    "url": "https://www.iberia.com/en/information/changes-and-cancellations/refunds/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Basico fare: non-refundable. No cash refund issued on cancellation. Taxes may be refunded upon request. Clasico fare: cancellation fee applies, remainder refunded to original payment method. Fee varies by route. Flexible fare: fully refundable with no cancellation fee. Refund processed to original payment method within 7-10 business days. EU regulation EC 261/2004 entitles passengers to refunds if the airline cancels the flight regardless of fare type."
+  },
+  {
+    "topic": "checkin",
+    "subtopic": "online_checkin",
+    "section_heading": "Online check-in times and process",
+    "url": "https://www.iberia.com/en/information/check-in/online-check-in/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Online check-in opens 48 hours before departure and closes 1 hour before departure for most routes. Available at iberia.com or via the Iberia app. Passengers can select or change seats during online check-in subject to availability and fare type. Flexible and Clasico fare passengers can select standard seats free of charge. Basico fare passengers must pay for seat selection. After online check-in, a mobile or printed boarding pass can be used. Passengers with checked baggage must drop bags at the airport bag drop desk."
+  },
+  {
+    "topic": "checkin",
+    "subtopic": "airport_checkin",
+    "section_heading": "Airport check-in desks and deadlines",
+    "url": "https://www.iberia.com/en/information/check-in/airport-check-in/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Airport check-in desks open 3 hours before departure for international flights and 2 hours for domestic. Check-in closes 45 minutes before departure for short-haul and 60 minutes for long-haul flights. Arriving after check-in closes may result in denied boarding with no refund. Business class passengers have dedicated check-in counters. Iberia Plus Gold and Platinum members have access to priority check-in regardless of fare class."
+  },
+  {
+    "topic": "pets",
+    "subtopic": "pets_cabin",
+    "section_heading": "Travelling with pets in the cabin",
+    "url": "https://www.iberia.com/en/information/special-assistance/pets/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Small dogs and cats may travel in the cabin if the total weight of pet plus carrier does not exceed 8kg. The carrier must fit under the seat in front: max dimensions 45x35x25cm. Only one pet per passenger is permitted. Pets in cabin must be pre-booked and are subject to a fee. Not all routes accept cabin pets — long-haul transatlantic flights do not permit pets in cabin. Animals must be at least 8 weeks old. Emotional support animals are not accepted as cabin pets and must travel as checked cargo."
+  },
+  {
+    "topic": "seats",
+    "subtopic": "seat_selection",
+    "section_heading": "Seat selection by fare type",
+    "url": "https://www.iberia.com/en/information/seats/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Basico fare: seat selection is not included, a seat is assigned automatically at check-in. Preferred seats can be purchased. Clasico fare: standard seat selection included free of charge from 24 hours before departure. Exit row and front seats cost extra. Flexible fare: seat selection included from time of booking at no extra charge including standard seats. Business class: seat selection always included. Seat selection can be done at iberia.com, the app, or during online check-in."
+  },
+  {
+    "topic": "iberia_plus",
+    "subtopic": "earning_avios",
+    "section_heading": "Earning Avios points by fare type",
+    "url": "https://www.iberia.com/en/iberia-plus/earn-avios/",
+    "fare_classes": ["basico", "clasico", "flexible"],
+    "text": "Iberia Plus members earn Avios on Iberia flights based on fare type and distance. Basico fare: 25% of base Avios. Clasico fare: 100% of base Avios. Flexible fare: 150% of base Avios. Business class: 200% of base Avios. Avios are credited after the flight is completed. Members must include their Iberia Plus number at booking or check-in. Avios can be redeemed for flights, upgrades, hotels and car hire."
+  }
+]
