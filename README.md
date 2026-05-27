@@ -196,6 +196,10 @@ What are the fees for extra baggage?
 
 ---
 
+👤 Author
+Skarleth Motiño Flores
+
+
 ## 📄 License
 
 MIT — free to use for learning and portfolio purposes.
